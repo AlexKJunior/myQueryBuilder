@@ -18,7 +18,7 @@ class MyQueryBuilder
     const DESC_ORDER = 'DESC';
 
     /**
-     * @param  array $params
+     * @param array $params
      */
     private array $params = [];
 
