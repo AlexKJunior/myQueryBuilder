@@ -7,7 +7,7 @@ use DB\MyQueryBuilder;
 class CompilerSelect extends Compiler
 {
     /**
-     * @param MyQueryBuilder $builder
+     *  @param  MyQueryBuilder $builder
      */
     public function toSql(MyQueryBuilder $builder)
     {
